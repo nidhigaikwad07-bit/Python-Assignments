@@ -23,9 +23,9 @@ s.push(20)
 s.push(30)
 s.display()
 
-print("Pooped:" , s.safe_pop())
-print("Pooped:" , s.safe_pop())
-print("Pooped:" , s.safe_pop())
+print("Popped:" , s.safe_pop())
+print("Popped:" , s.safe_pop())
+print("Popped:" , s.safe_pop())
 
-print("Pooped:" , s.safe_pop())
+print("Popped:" , s.safe_pop())
 
